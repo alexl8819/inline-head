@@ -9,7 +9,7 @@ Ideally, you'd want to pair this up with another module that extracts the inline
 
 ## Usage
     
-    $ git clone https://github.com/idealwebsolutions/inline-head
+    $ git clone https://github.com/alexl8819/inline-head
     $ cd inline-head && npm -g install
     $ inline-head < examples/index.html > new-index.html
 

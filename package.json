@@ -10,7 +10,7 @@
     "test": "node test.js",
     "lint": "standard"
   },
-  "author": "idealwebsolutions",
+  "author": "alexl8819",
   "license": "MIT",
   "dependencies": {
     "css": "^2.2.3",
